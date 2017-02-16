@@ -67,5 +67,4 @@ function TinyTurtle(canvas) {
 
   return self;
 }
-Step 6: Canvas CSS
-You will notice a new HTML tag is being used. This tag is called canvas In the style.css page give your canvas tag the following attributes
+
